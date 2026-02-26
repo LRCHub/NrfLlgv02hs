@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "浴槽とネオンテトラ – 耽溺 ver.",
+  "base_artist": "REISAI",
+  "createdAt": "2026-02-26T15:59:20.624971Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "浴槽とネオンテトラ",
+      "artist": "REISAI",
+      "has_synced": false,
+      "path": "select/pl_01_浴槽とネオンテトラ_REISAI.txt"
+    }
+  ]
+}
